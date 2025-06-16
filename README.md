@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Predictor
+# 🌸 Iris Flower Species Predictor
 
 > A simple ML web app that predicts the species of an Iris flower based on user input.
 
@@ -19,9 +19,7 @@
 
 > ✨ Dark mode UI inspired by the blue/purple tones of real iris flowers.
 
-<img src="https://github.com/MathewJobey/iris-logistic-classifier/assets/YOUR_IMAGE_ID/demo.gif" width="100%" alt="UI Demo GIF or Screenshot">
-
-> *(Replace with actual GIF/screenshot once available)*
+![Recording 2025-06-17 043558](https://github.com/user-attachments/assets/8246f896-77e5-4bbc-a7b9-fc94924e014f)
 
 ---
 
