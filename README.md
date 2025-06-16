@@ -6,8 +6,8 @@
 
 ## ⚙️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-2.x-black?logo=flask)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
@@ -46,3 +46,50 @@ Runs locally via Flask (`app.py`)
 
 ## 📁 Project Structure
 
+```
+iris-logistic-classifier/
+├── app.py                # Flask backend logic
+├── index.html            # Frontend HTML (user interface)
+├── favicon.ico           # Favicon shown in browser tab
+├── iris_model.pkl        # Trained logistic regression model
+├── iris_classifier.ipynb # Jupyter notebook used to train and save model
+└── README.md             # Project overview and instructions
+```
+
+---
+
+## 🚀 Running Locally (Backend)
+
+### 1. **Clone the Repository**
+```bash
+git clone https://github.com/MathewJobey/iris-logistic-classifier.git
+cd iris-logistic-classifier
+```
+
+### 2. Install Flask (if not already installed)
+```bash
+pip install flask
+```
+
+### 3. Run the App
+```bash
+python app.py
+```
+
+### 4. Visit in Browser
+```bash
+http://127.0.0.1:5000
+```
+
+## 🙋‍♂️ Author
+
+Made with 💜 by **Mathew Jobey**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/mathew-jobey)
+
+📧 <a href="mailto:mathewjobey17@gmail.com">mathewjobey17@gmail.com</a>  
+
+---
+
+## 📝 License
+This project is licensed under the MIT License.
