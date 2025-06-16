@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Species Predictor
+# ![ZeeResizer](https://github.com/user-attachments/assets/dc72686b-78c5-44ef-a995-9a5111c7417b) Iris Flower Species Predictor 
 
 > A simple ML web app that predicts the species of an Iris flower based on user input.
 
